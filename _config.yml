@@ -39,10 +39,10 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
-description: "It's an IT blog..."
-keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
+SEOTitle: 海底小屋
+email: 214442396@qq.com
+description: "It's MY blog!"
+keyword: "游戏,音乐,故事,建模,绘画"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
