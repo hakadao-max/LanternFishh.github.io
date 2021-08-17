@@ -4,7 +4,7 @@
 
 # Site
 title: 海底小屋
-subtitle: my blog
+subtitle: 白色灯笼鱼
 author: 白色灯笼鱼
 timezone:
 
@@ -381,4 +381,4 @@ gitter:
 deploy:
   type: git
   repo: git@github.com:LanternFishh/LanternFishh.github.io.git
-  branch: <your-branch>
+  branch: main
